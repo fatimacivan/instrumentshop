@@ -1,0 +1,37 @@
+
+.welcome {
+    font-weight: bold;
+    text-align: center;
+    color: rgb(133, 110, 9);
+    text-shadow: 2px;
+ 
+}
+ul{
+    text-align: center;
+}
+.welcomelist-text {
+    margin-top: 4%;
+    font-weight: bold;
+    text-align: center;
+    list-style-type:none ;
+    color: rgb(0, 0, 0);
+}
+li {
+  margin-top: 3%;
+  list-style: none;
+}
+.contents {
+    justify-content: space-between;
+    padding-left: 25%;
+    padding-right: 25%;
+    background-color: rgb(226, 167, 56);
+
+   
+}
+
+.pictures {
+    border: 1% solid #0c0a0a;
+    border-radius: 4%;
+    padding: 5%;
+    width: 60%;
+}
